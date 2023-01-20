@@ -12,4 +12,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=meshu-dev&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshu-dev&langs_count=8)](https://github.com/meshu-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshu-dev&langs_count=6)](https://github.com/meshu-dev/github-readme-stats)
