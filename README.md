@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-time software developer whose looking to develop skills in technologies not used before.
+I'm a full-time software developer looking to develop skills in technologies that I've not used before.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=meshu-dev&mode=weekly)](https://git.io/streak-stats)
 
