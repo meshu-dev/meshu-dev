@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋, I'm Mesh
 
-I'm a full-time software developer looking to develop skills in technologies that I've not used before.
+### A full-time software developer living in the West Midlands, UK  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=meshu-dev&mode=weekly)](https://git.io/streak-stats)
 
