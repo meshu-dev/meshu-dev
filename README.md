@@ -12,5 +12,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=meshu-dev&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshu-dev&langs_count=6&layout=compact)](https://github.com/meshu-dev/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshu-dev&langs_count=6&layout=compact)](https://github.com/meshu-dev/github-readme-stats) [![meshu-dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meshu-dev)](https://github.com/meshu-dev/github-readme-stats)
