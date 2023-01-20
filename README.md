@@ -9,3 +9,5 @@
 - ⚡ Fun fact: ...
 - 😄 Pronouns: He/Him
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=meshu-dev&mode=weekly)](https://git.io/streak-stats)
