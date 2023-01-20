@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/Him
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=meshu-dev&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=meshu-dev&theme=dark&mode=weekly)](https://git.io/streak-stats)
