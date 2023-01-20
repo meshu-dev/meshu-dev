@@ -2,7 +2,7 @@
 
 - :office: Employed full-time as a software developer
 - :computer: Currently building my portfolio
-- :book: Looking to learn and create projects in a new programming language
+- :book: Looking to learn a new programming language
 <!--
 - 💬 Ask me about web technologies
 - 📫 How to reach me: ...
