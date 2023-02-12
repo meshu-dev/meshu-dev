@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Mesh
 
-### A full-time software developer living in the West Midlands, UK  
+### I'm a full-time software developer with over 12 years experience.
+
+Currently working on personal projects to enhance my skills and explore technologies which I haven't worked with before.
 
 [![GitHub Streak](https://profile-api.meshu.app/stats/streak)](https://github.com/meshu-dev)
 
