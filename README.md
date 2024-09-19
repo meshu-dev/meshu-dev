@@ -1,1 +1,2 @@
-[![GitHub Profile](https://api.meshpro.io/github/profile)](https://github.com/meshu-dev)
+![GitHub Profile](https://api.meshpro.io/github/profile)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
