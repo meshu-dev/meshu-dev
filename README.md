@@ -8,14 +8,14 @@ Currently working on personal projects to enhance my skills and explore technolo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshu-dev&langs_count=6&layout=compact)](https://github.com/meshu-dev/github-readme-stats)
 
-**Backend**:
+**Backend**
 - PHP, Node.js, Java
 
-**Frontend**:
+**Frontend**
 - Vue.js, React, Angular
 
-**Database**:
+**Database**
 - MySQL, SQLite, MongoDB
 
-**Frameworks**:
+**Frameworks**
 - Laravel, Next.js, Nuxt.js
