@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Mesh
 
-Currently working on personal projects to enhance my skills and explore technologies which I haven't worked with before.
+I'm a full-stack developer with an emphasis on Laravel and Vue.js.
+
+I'm also working on personal projects to enhance my skills and explore technologies which I haven't worked with before.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=meshu-dev&mode=weekly)](https://git.io/streak-stats)
 
