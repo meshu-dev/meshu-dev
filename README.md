@@ -30,4 +30,4 @@ I like to keep myself busy by spending my time on personal self-development.
 
 **Server**
 
-![AWS, Ubuntu](https://skillicons.dev/icons?i=aws,ubuntu)
+![AWS, Ubuntu, Raspberry Pi](https://skillicons.dev/icons?i=aws,ubuntu,raspberrypi)
