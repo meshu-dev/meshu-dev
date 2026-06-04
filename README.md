@@ -4,7 +4,7 @@ A full-stack developer who works with the Laravel framework coupled with either 
 
 ## About Me
 
-I like to keep myself busy using my time doing personal self-development.
+I like to keep myself busy by spending my time on personal self-development.
 
 - 🤖 Reading about AI and looking into Agentic coding
 - ⭐ Working on building my portfolio
