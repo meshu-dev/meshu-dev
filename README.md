@@ -18,7 +18,7 @@ I like to keep myself busy by spending my time on personal self-development.
 
 **Frontend**
 
-![React, Vue.js, Angular](https://skillicons.dev/icons?i=react,vuejs,angular)
+![React, Vue.js, Tailwind CSS](https://skillicons.dev/icons?i=react,vuejs,tailwind)
 
 **Database**
 
