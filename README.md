@@ -4,18 +4,20 @@ A full-stack developer who mostly works with Laravel and Vue.js.
 
 I'm also working on personal projects to enhance my skills and explore new technologies.
 
-## Technologies
-
-[![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs?username=meshu-dev&layout=compact)](https://github.com/meshu-dev/github-readme-stats)
+## Techstack
 
 **Backend**
-- PHP, Node.js, Java
+
+![PHP, Node.js, Java](https://skillicons.dev/icons?i=php,nodejs,java)
 
 **Frontend**
-- Vue.js, React, Angular
+
+![React, Vue.js, Angular](https://skillicons.dev/icons?i=react,vuejs,angular)
 
 **Database**
-- MySQL, SQLite, MongoDB
+
+![MySQL, MongoDB, SQLite](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
 
 **Frameworks**
-- Laravel, Next.js, Nuxt.js
+
+![Laravel, Next.js, Nuxt.js](https://skillicons.dev/icons?i=laravel,nextjs,nuxtjs)
