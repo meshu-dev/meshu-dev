@@ -27,3 +27,7 @@ I like to keep myself busy by spending my time on personal self-development.
 **Frameworks**
 
 ![Laravel, Next.js, Nuxt.js](https://skillicons.dev/icons?i=laravel,nextjs,nuxtjs)
+
+**Server**
+
+![AWS, Ubuntu](https://skillicons.dev/icons?i=aws,ubuntu)
