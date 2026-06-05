@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mesh
 
-A full-stack developer who works with the Laravel framework coupled with either React or Vue.js.
+🚀 A full-stack developer who works with the Laravel framework coupled with either React or Vue.js.
 
 ## About Me
 
