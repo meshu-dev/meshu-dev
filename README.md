@@ -22,7 +22,7 @@ I like to keep myself busy by spending my time on personal self-development.
 
 **Database**
 
-![MySQL, MongoDB, SQLite](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
+![MySQL, MongoDB, Redis](https://skillicons.dev/icons?i=mysql,mongodb,redis)
 
 **Frameworks**
 
