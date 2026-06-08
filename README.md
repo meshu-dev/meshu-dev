@@ -6,7 +6,7 @@
 
 I like to keep myself busy by spending my time on personal self-development.
 
-- 🤖 Currently researching AI web development / Agentic coding
+- 🤖 Currently researching Agentic Coding
 - ⭐ Working on building my portfolio
 - 🎥 Preparing for live-streaming coding sessions
 
