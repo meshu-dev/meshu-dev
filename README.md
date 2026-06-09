@@ -6,7 +6,7 @@
 
 I like to keep myself busy by spending my time on personal self-development.
 
-- 🤖 Currently doing Agentic Coding
+- 🤖 Currently doing Agentic Coding (Cursor / OpenCode)
 - ⭐ Working on building my portfolio
 - 🎥 Preparing for live-streaming coding sessions
 
